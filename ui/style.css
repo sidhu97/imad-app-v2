@@ -9,10 +9,11 @@ body {
 img {
      border: 10px solid white;
     border-radius:100px;
-    margin:10px 0 10px 0;
+    margin:100px 0 100px 0;
 }
 input[type="submit"]
 {
     background:red;
     color:white;
 }
+
