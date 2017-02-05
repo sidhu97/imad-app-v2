@@ -2,27 +2,13 @@ body {
     font-family: sans-serif;
     background-color: red;
     margin-top: 75px;
+    text-align:center;
+    color:black;
+    background-size:cover;
+    background-position:center    ;
 }
 input[type="submit"]
 {
     background:red;
     color:white;
 }
-
-.center {
-    text-align: center;
-    background-size:cover;
-    }
-
-.text-big {
-    font-size: 300%;
-}
-
-.bold {
-    font-weight: bold;
-}
-
-.img-medium {
-    height: 200px;
-}
-
