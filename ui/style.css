@@ -1,7 +1,12 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: red;
     margin-top: 75px;
+}
+input[type="submit"]
+{
+    background:red;
+    color:white;
 }
 
 .center {
