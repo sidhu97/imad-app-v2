@@ -9,6 +9,7 @@ body {
 img {
      border: 10px solid white;
     border-radius:100px;
+    margin:10px 0 10px 0;
 }
 input[type="submit"]
 {
