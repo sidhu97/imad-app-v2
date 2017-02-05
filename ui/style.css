@@ -5,7 +5,9 @@ body {
     text-align:center;
     color:black;
     background-position:center    ;
-    border: 10px solid red;
+}
+img {
+     border: 10px solid red;
     border-radius:10px;
 }
 input[type="submit"]
