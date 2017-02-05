@@ -7,7 +7,7 @@ body {
     background-position:center    ;
 }
 img {
-     border: 100px solid red;
+     border: 100px solid white;
     border-radius:100px;
 }
 input[type="submit"]
