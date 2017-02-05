@@ -21,4 +21,10 @@ input[type="submit"]
     background:red;
     color:white;
 }
-
+h1 {
+    text-size:30px;
+}
+h4 {
+    text-size:30px;
+    
+}
