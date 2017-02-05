@@ -1,7 +1,7 @@
 body {
     font-family: sans-serif;
     background-color: red;
-    margin-top: 75px;
+    margin-top: 50px;
     text-align:center;
     color:black;
     background-position:center    ;
@@ -22,9 +22,9 @@ input[type="submit"]
     color:white;
 }
 h1 {
-    text-size:30px;
+    font-size:30px;
 }
 h4 {
-    text-size:30px;
+    font-size:30px;
     
 }
