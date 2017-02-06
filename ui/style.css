@@ -38,5 +38,12 @@ input {
 .leg{
     background-color:red;
     font-family:sans-serif;
+}
+li {
+    display:inline;
+    padding:0 10px 0 10px;
+}
+
+}
     }
   
