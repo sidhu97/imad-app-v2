@@ -11,6 +11,7 @@ body {
 }
   
    a{
+       padding:30px;
        font-weight:bold;
         color:black;
     }
