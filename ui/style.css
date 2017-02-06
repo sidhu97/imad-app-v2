@@ -30,4 +30,6 @@ input {
 }
 .leg{
     background-color:red;
+    font-family:sans-serif;
+    font-size:30px;
 }
